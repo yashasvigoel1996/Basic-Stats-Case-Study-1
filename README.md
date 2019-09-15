@@ -1,1 +1,1 @@
-# Basic-Stats-Case-Study-1
+# Go through Statistical Methods Assignment.pdf
